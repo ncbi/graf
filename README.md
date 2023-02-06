@@ -533,6 +533,6 @@ $ PlotPopulations.pl G1000_sbj_scores.txt G1000_sbj_list_cutb.txt -spf G1000SbjS
 
 Jin Y, Schäffer AA, Sherry ST, and Feolo M (2017). [Quickly identifying identical and closely related subjects in large databases using genotype data.](https://www.ncbi.nlm.nih.gov/pubmed/?term=28609482) PLoS One. 12(6):e0179106.
 
-Jin Y, Schäffer AA, Feolo M, Holmes JB and Kattman BL (2019). [GRAF-pop: A Fast Distance-based Method to Infer Subject Ancestry from Multiple Genotype Datasets without Principal Components Analysis.] ([https://pubmed.ncbi.nlm.nih.gov/31151998/] (https://pubmed.ncbi.nlm.nih.gov/31151998/) G3: Genes | Genomes | Genetics. Aug 8; 9(8):2447-2461.
+Jin Y, Schäffer AA, Feolo M, Holmes JB and Kattman BL (2019). [GRAF-pop: A Fast Distance-based Method to Infer Subject Ancestry from Multiple Genotype Datasets without Principal Components Analysis.] (https://pubmed.ncbi.nlm.nih.gov/31151998/) G3: Genes | Genomes | Genetics. Aug 8; 9(8):2447-2461.
 
 
